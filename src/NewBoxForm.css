@@ -1,0 +1,17 @@
+.form-group {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+label {
+    width: 120px;
+    text-align: right;
+    margin-right: 10px;
+}
+
+button {
+
+    margin: 20px auto;
+}

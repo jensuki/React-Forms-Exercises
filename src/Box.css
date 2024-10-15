@@ -1,0 +1,15 @@
+.Box {
+
+    background-color: lightcoral;
+    margin-right: 10px;
+    position: relative;
+}
+
+.Box-Removebtn {
+    position: absolute;
+    top: 0px;
+    right: -45px;
+    background-color: white;
+    border: 1px solid black;
+    cursor: pointer;
+}
